@@ -1,8 +1,8 @@
 # Socket_Programming
 
+![Alt text](/relative/path/to/img.jpg?raw=true "Socket Programming")
 
-
-**basic_socket** - Creating a socket and connecting to a server (here: www.google.com).
+**basic_socket** - Creating a socket and connecting to a server (here eg: www.google.com).
 
 **simple_server_client** - Creating a socket which creates the localhost as the server with a port (5050). Using diff ports as the client sockets to connect to the Server. Clients can send messages to the server and the server keeps listening. This is an example of one-way connection between the clients and server. here the server doesnot send back messages.
 
