@@ -12,5 +12,8 @@
 **messaging_sockets** - This is a completely functional Server client Messaging application. Here blocks of data is send from client to server. Since I am introducing both broadcast(sending message to all other clients) and personal(sending to a specified person only). The buffer size needs to be mentioned beforehand.
 And that is why the message along with the buffer size is send together always. Also to note that, every time the client sends the message the message along with the sender_name, receiver_name, time, message will be stored in the server as server_messages list. Also there is couple of dictionaries to keep track of the ip-address aong with the name to know which person is which.
 
-*Since at the time of development it was easier to include both the server code and client code together so that it could be run as a single program, use server.py, client.py which gives a better understanding of the code.*
-*server.py, client.py is a further splitting of messaging sockets to run as different files*
+
+> Since at the time of development it was easier to include both the server code and client code together so that it could be run as a single program, use server.py, client.py which gives a better understanding of the code.
+
+
+> server.py, client.py is a further splitting of messaging sockets to run as different files*
