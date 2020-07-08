@@ -1,8 +1,10 @@
 # Socket_Programming
 
 
+
 ![alt text](https://github.com/JoseAtlin/Socket_Programming/blob/master/socket_programming.png?raw=true)
-<br />
+
+
 
 **basic_socket** - Creating a socket and connecting to a server (here eg: www.google.com).
 
