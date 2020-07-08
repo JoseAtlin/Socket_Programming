@@ -1,6 +1,6 @@
 # Socket_Programming
 
-![Alt text](/relative/path/to/socket_programming.png?raw=true "Socket Programming")
+![socket_programming](socket_programming.png)
 
 **basic_socket** - Creating a socket and connecting to a server (here eg: www.google.com).
 
