@@ -1,7 +1,7 @@
 # Socket_Programming
 <hr>
 
-![alt text](https://github.com/JoseAtlin/Socket_Programming/blob/master/socket_programming.png?raw=true)
+![alt text](https://github.com/JoseAtlin/Socket_Programming/blob/master/socket_programming.png?raw=true "socket pogramming")
 
 <hr>
 
